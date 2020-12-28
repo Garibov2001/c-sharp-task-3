@@ -1,0 +1,13 @@
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.exe
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.deps.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.runtimeconfig.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.runtimeconfig.dev.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\bin\Debug\netcoreapp3.1\PashaHolding.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.csprojAssemblyReference.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.AssemblyInfoInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.AssemblyInfo.cs
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.csproj.CoreCompileInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-3\PashaHolding\obj\Debug\netcoreapp3.1\PashaHolding.genruntimeconfig.cache
